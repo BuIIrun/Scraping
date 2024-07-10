@@ -2,6 +2,7 @@ import requests
 import json
 import tabulate
 from bs4 import BeautifulSoup
+
 class restcountries:
 
 
